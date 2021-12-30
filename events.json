@@ -1,0 +1,156 @@
+/*
+  Tags:
+   - blog
+   - milestones
+   - places
+*/
+
+[
+  {
+    title: "",
+    details: "",
+    date: "2007-05-01",
+    tags: [""],
+    references: [""]
+  },
+  {
+    title: "Crossroads place created",
+    details: "",
+    date: "2007-05-01",
+    tags: ["places"],
+    references: ["https://www.roblox.com/games/1818/Classic-Crossroads"]
+  },
+  {
+    title: "Roblox Blog launched",
+    details: "",
+    date: "2006-12-06",
+    tags: ["blog"],
+    references: ["https://blog.roblox.com/2006/12/welcome/"]
+  },
+  {
+    title: "1st user created",
+    details: "",
+    date: "2006-02-27",
+    tags: ["milestones"],
+    references: []
+  },
+  {
+    title: "10,000th user joined",
+    details: "",
+    date: "2006-12-10",
+    tags: ["milestones"],
+    references: ["https://blog.roblox.com/2006/12/now-we-are-10000/"]
+  },
+  {
+    title: "Santa's Winter Stronghold Released",
+    details: "First holiday place created by Roblox.",
+    date: "2006-12-21",
+    tags: ["places"],
+    references: ["https://blog.roblox.com/2006/12/santas-winter-stronghold-revealed/"]
+  },
+  {
+    title: "Roblox Badges released",
+    details: "Badges were given out for friendships, knockouts, wipeouts, and other criteria.",
+    date: "2006-12-21",
+    tags: ["roblox-badges"],
+    references: ["https://blog.roblox.com/2006/12/roblox-badges/"]
+  },
+  {
+    title: "Animated characters introduced",
+    details: "",
+    date: "2007-01-09",
+    tags: ["avatar"],
+    references: ["https://blog.roblox.com/2007/01/kicking-off-the-new-year-with-style/"]
+  },
+  {
+    title: "Report Abuse button introduced in-game",
+    details: "",
+    date: "2007-01-31",
+    tags: ["moderation"],
+    references: ["https://blog.roblox.com/2007/01/report-abuse/"]
+  },
+  {
+    title: "Teams feature released",
+    details: "",
+    date: "2007-02-16",
+    tags: ["engine", "teams"],
+    references: ["https://blog.roblox.com/2007/02/code-bomb/"]
+  },
+  {
+    title: "Tools added to Roblox",
+    details: "",
+    date: "2007-02-16",
+    tags: ["engine"],
+    references: ["https://blog.roblox.com/2007/02/code-bomb/"]
+  },
+  {
+    title: "Place copylocked feature enabled",
+    details: "Previously the source files of all places were public by default.",
+    date: "2007-02-17",
+    tags: ["places"],
+    references: ["https://blog.roblox.com/2007/02/place-protection-quick-update/"]
+  },
+  {
+    title: "Places can be copylocked",
+    details: "Previously all games were open by default.",
+    date: "2007-02-17",
+    tags: ["places"],
+    references: ["https://blog.roblox.com/2007/02/place-protection-quick-update/"]
+  },
+  {
+    title: "Character customization added",
+    details: "Users could customize their body colors and add custom t-shirts.",
+    date: "2007-03-07",
+    tags: ["avatar"],
+    references: ["https://blog.roblox.com/2007/03/name-that-robloxian/"]
+  },
+  {
+    title: "Super Safe Chat introduced",
+    details: "Allowed <13 users to use specific phrases from a drop-down menu instead of freely chatting.",
+    date: "2007-03-27",
+    tags: ["moderation", "chat"],
+    references: ["https://blog.roblox.com/2007/03/a-new-day-dawns/"]
+  }, 
+  {
+    title: "Custom skyboxes and time of day released",
+    details: "",
+    date: "2007-03-27",
+    tags: ["moderation", "chat"],
+    references: ["https://blog.roblox.com/2007/03/a-new-day-dawns/"]
+  }, 
+  {
+    title: "Builders Club launched",
+    details: "Early version of Builders Club released. Initial featureset came with 5 places and no ads.",
+    date: "2007-04-12",
+    tags: ["builders-club"],
+    references: ["https://blog.roblox.com/2007/04/paintballs-and-pointy-things/"]
+  }, 
+  {
+    title: "New games page released",
+    details: "",
+    date: "2007-05-01",
+    tags: ["places"],
+    references: ["https://blog.roblox.com/2007/05/upgrades/"]
+  }, 
+  {
+    title: "Place Page launched",
+    details: "Before this, places did not have their own page.",
+    date: "2007-05-01",
+    tags: ["places"],
+    references: ["https://blog.roblox.com/2007/05/upgrades/"]
+  },
+  {
+    title: "Multiple Place Instances added",
+    details: "Before this, all players were placed into a single game instance with no max player count.",
+    date: "2007-05-01",
+    tags: ["places"],
+    references: ["https://blog.roblox.com/2007/05/upgrades/"]
+  },
+  {
+    title: "SpawnLocation object added",
+    details: "Allowed developers to customize where users spawn on the map.",
+    date: "2007-05-01",
+    tags: ["places"],
+    references: ["https://blog.roblox.com/2007/05/upgrades/"]
+  },
+]
