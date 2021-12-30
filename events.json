@@ -146,4 +146,25 @@
     tags: ["places"],
     references: ["https://blog.roblox.com/2007/05/upgrades/"]
   },
+  {
+    title: "Robux introduced",
+    details: "Replaced 'Roblox Points' as the primary currency of Roblox. Robux could be earned through the login bonus or place visits.",
+    date: "2007-05-14",
+    tags: ["virtual-currency"],
+    references: ["https://blog.roblox.com/2007/05/roblox-robux/"]
+  },
+  {
+    title: "Hats introduced",
+    details: "Virtual hats introduced that could be purchased in the Roblox catalog for Robux.",
+    date: "2007-05-30",
+    tags: ["hats"],
+    references: ["https://blog.roblox.com/2007/05/robloxian-hat-dance/"]
+  },
+  {
+    title: "Hats introduced",
+    details: "Virtual hats introduced that could be purchased in the Roblox catalog for Robux.",
+    date: "2007-05-30",
+    tags: ["milestones"],
+    references: ["https://blog.roblox.com/2007/05/robloxian-hat-dance/"]
+  },
 ]
