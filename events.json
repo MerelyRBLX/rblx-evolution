@@ -1,317 +1,324 @@
 [
   {
-    title: "Crossroads place created",
-    details: "",
-    date: "2007-05-01",
-    tags: ["places"],
-    references: ["https://www.roblox.com/games/1818/Classic-Crossroads"]
+    "title": "",
+    "details":"",
+    "date": "2007-05-01",
+    "tags": [""],
+    "references": [""]
   },
   {
-    title: "Roblox Blog launched",
-    details: "",
-    date: "2006-12-06",
-    tags: ["blog"],
-    references: ["https://blog.roblox.com/2006/12/welcome/"]
+    "title": "Crossroads place created",
+    "details":"",
+    "date": "2007-05-01",
+    "tags": ["places"],
+    "references": ["https://www.roblox.com/games/1818/Classic-Crossroads"]
   },
   {
-    title: "1st user created",
-    details: "",
-    date: "2006-02-27",
-    tags: ["milestones"],
-    references: []
+    "title": "Roblox Blog launched",
+    "details":"",
+    "date": "2006-12-06",
+    "tags": ["blog"],
+    "references": ["https://blog.roblox.com/2006/12/welcome/"]
   },
   {
-    title: "10,000th user joined",
-    details: "",
-    date: "2006-12-10",
-    tags: ["milestones"],
-    references: ["https://blog.roblox.com/2006/12/now-we-are-10000/"]
+    "title": "1st user created",
+    "details":"",
+    "date": "2006-02-27",
+    "tags": ["milestones"],
+    "references": []
   },
   {
-    title: "Santa's Winter Stronghold Released",
-    details: "First holiday place created by Roblox.",
-    date: "2006-12-21",
-    tags: ["places"],
-    references: ["https://blog.roblox.com/2006/12/santas-winter-stronghold-revealed/"]
+    "title": "10,000th user joined",
+    "details":"",
+    "date": "2006-12-10",
+    "tags": ["milestones"],
+    "references": ["https://blog.roblox.com/2006/12/now-we-are-10000/"]
   },
   {
-    title: "Roblox Badges released",
-    details: "Badges were given out for friendships, knockouts, wipeouts, and other criteria.",
-    date: "2006-12-21",
-    tags: ["roblox-badges"],
-    references: ["https://blog.roblox.com/2006/12/roblox-badges/"]
+    "title": "Santa's Winter Stronghold Released",
+    "details":"First holiday place created by Roblox.",
+    "date": "2006-12-21",
+    "tags": ["places"],
+    "references": ["https://blog.roblox.com/2006/12/santas-winter-stronghold-revealed/"]
   },
   {
-    title: "Animated characters introduced",
-    details: "",
-    date: "2007-01-09",
-    tags: ["avatar"],
-    references: ["https://blog.roblox.com/2007/01/kicking-off-the-new-year-with-style/"]
+    "title": "Roblox Badges released",
+    "details":"Badges were given out for friendships, knockouts, wipeouts, and other criteria.",
+    "date": "2006-12-21",
+    "tags": ["roblox-badges"],
+    "references": ["https://blog.roblox.com/2006/12/roblox-badges/"]
   },
   {
-    title: "Report Abuse button introduced in-game",
-    details: "",
-    date: "2007-01-31",
-    tags: ["moderation"],
-    references: ["https://blog.roblox.com/2007/01/report-abuse/"]
+    "title": "Animated characters introduced",
+    "details":"",
+    "date": "2007-01-09",
+    "tags": ["avatar"],
+    "references": ["https://blog.roblox.com/2007/01/kicking-off-the-new-year-with-style/"]
   },
   {
-    title: "Teams feature released",
-    details: "",
-    date: "2007-02-16",
-    tags: ["engine", "teams"],
-    references: ["https://blog.roblox.com/2007/02/code-bomb/"]
+    "title": "Report Abuse button introduced in-game",
+    "details":"",
+    "date": "2007-01-31",
+    "tags": ["moderation"],
+    "references": ["https://blog.roblox.com/2007/01/report-abuse/"]
   },
   {
-    title: "Tools added to Roblox",
-    details: "",
-    date: "2007-02-16",
-    tags: ["engine"],
-    references: ["https://blog.roblox.com/2007/02/code-bomb/"]
+    "title": "Teams feature released",
+    "details":"",
+    "date": "2007-02-16",
+    "tags": ["engine", "teams"],
+    "references": ["https://blog.roblox.com/2007/02/code-bomb/"]
   },
   {
-    title: "Place copylocked feature enabled",
-    details: "Previously the source files of all places were public by default.",
-    date: "2007-02-17",
-    tags: ["places"],
-    references: ["https://blog.roblox.com/2007/02/place-protection-quick-update/"]
+    "title": "Tools added to Roblox",
+    "details":"",
+    "date": "2007-02-16",
+    "tags": ["engine"],
+    "references": ["https://blog.roblox.com/2007/02/code-bomb/"]
   },
   {
-    title: "Places can be copylocked",
-    details: "Previously all games were open by default.",
-    date: "2007-02-17",
-    tags: ["places"],
-    references: ["https://blog.roblox.com/2007/02/place-protection-quick-update/"]
+    "title": "Place copylocked feature enabled",
+    "details":"Previously the source files of all places were public by default.",
+    "date": "2007-02-17",
+    "tags": ["places"],
+    "references": ["https://blog.roblox.com/2007/02/place-protection-quick-update/"]
   },
   {
-    title: "Character customization added",
-    details: "Users could customize their body colors and add custom t-shirts.",
-    date: "2007-03-07",
-    tags: ["avatar"],
-    references: ["https://blog.roblox.com/2007/03/name-that-robloxian/"]
+    "title": "Places can be copylocked",
+    "details":"Previously all games were open by default.",
+    "date": "2007-02-17",
+    "tags": ["places"],
+    "references": ["https://blog.roblox.com/2007/02/place-protection-quick-update/"]
   },
   {
-    title: "Super Safe Chat introduced",
-    details: "Allowed <13 users to use specific phrases from a drop-down menu instead of freely chatting.",
-    date: "2007-03-27",
-    tags: ["moderation", "chat"],
-    references: ["https://blog.roblox.com/2007/03/a-new-day-dawns/"]
+    "title": "Character customization added",
+    "details":"Users could customize their body colors and add custom t-shirts.",
+    "date": "2007-03-07",
+    "tags": ["avatar"],
+    "references": ["https://blog.roblox.com/2007/03/name-that-robloxian/"]
+  },
+  {
+    "title": "Super Safe Chat introduced",
+    "details":"Allowed <13 users to use specific phrases from a drop-down menu instead of freely chatting.",
+    "date": "2007-03-27",
+    "tags": ["moderation", "chat"],
+    "references": ["https://blog.roblox.com/2007/03/a-new-day-dawns/"]
   }, 
   {
-    title: "Custom skyboxes and time of day released",
-    details: "",
-    date: "2007-03-27",
-    tags: ["moderation", "chat"],
-    references: ["https://blog.roblox.com/2007/03/a-new-day-dawns/"]
+    "title": "Custom skyboxes and time of day released",
+    "details":"",
+    "date": "2007-03-27",
+    "tags": ["moderation", "chat"],
+    "references": ["https://blog.roblox.com/2007/03/a-new-day-dawns/"]
   }, 
   {
-    title: "Builders Club beta launches",
-    details: "Early version of Builders Club released. Initial featureset came with 5 places and no ads.",
-    date: "2007-04-12",
-    tags: ["builders-club"],
-    references: ["https://blog.roblox.com/2007/04/paintballs-and-pointy-things/"]
+    "title": "Builders Club beta launches",
+    "details":"Early version of Builders Club released. Initial featureset came with 5 places and no ads.",
+    "date": "2007-04-12",
+    "tags": ["builders-club"],
+    "references": ["https://blog.roblox.com/2007/04/paintballs-and-pointy-things/"]
   }, 
   {
-    title: "New games page released",
-    details: "",
-    date: "2007-05-01",
-    tags: ["places"],
-    references: ["https://blog.roblox.com/2007/05/upgrades/"]
+    "title": "New games page released",
+    "details":"",
+    "date": "2007-05-01",
+    "tags": ["places"],
+    "references": ["https://blog.roblox.com/2007/05/upgrades/"]
   }, 
   {
-    title: "Place Page launched",
-    details: "Before this, places did not have their own page.",
-    date: "2007-05-01",
-    tags: ["places"],
-    references: ["https://blog.roblox.com/2007/05/upgrades/"]
+    "title": "Place Page launched",
+    "details":"Before this, places did not have their own page.",
+    "date": "2007-05-01",
+    "tags": ["places"],
+    "references": ["https://blog.roblox.com/2007/05/upgrades/"]
   },
   {
-    title: "Multiple Place Instances added",
-    details: "Before this, all players were placed into a single game instance with no max player count.",
-    date: "2007-05-01",
-    tags: ["places"],
-    references: ["https://blog.roblox.com/2007/05/upgrades/"]
+    "title": "Multiple Place Instances added",
+    "details":"Before this, all players were placed into a single game instance with no max player count.",
+    "date": "2007-05-01",
+    "tags": ["places"],
+    "references": ["https://blog.roblox.com/2007/05/upgrades/"]
   },
   {
-    title: "SpawnLocation object added",
-    details: "Allowed developers to customize where users spawn on the map.",
-    date: "2007-05-01",
-    tags: ["places"],
-    references: ["https://blog.roblox.com/2007/05/upgrades/"]
+    "title": "SpawnLocation object added",
+    "details":"Allowed developers to customize where users spawn on the map.",
+    "date": "2007-05-01",
+    "tags": ["places"],
+    "references": ["https://blog.roblox.com/2007/05/upgrades/"]
   },
   {
-    title: "Robux introduced",
-    details: "Replaced 'Roblox Points' as the primary currency of Roblox. Robux could be earned through the login bonus or place visits.",
-    date: "2007-05-14",
-    tags: ["virtual-currency", "economy"],
-    references: ["https://blog.roblox.com/2007/05/roblox-robux/"]
+    "title": "Robux introduced",
+    "details":"Replaced 'Roblox Points' as the primary currency of Roblox. Robux could be earned through the login bonus or place visits.",
+    "date": "2007-05-14",
+    "tags": ["virtual-currency", "economy"],
+    "references": ["https://blog.roblox.com/2007/05/roblox-robux/"]
   },
   {
-    title: "Hats introduced",
-    details: "Virtual hats introduced that could be purchased in the Roblox catalog for Robux.",
-    date: "2007-05-30",
-    tags: ["hats"],
-    references: ["https://blog.roblox.com/2007/05/robloxian-hat-dance/"]
+    "title": "Hats introduced",
+    "details":"Virtual hats introduced that could be purchased in the Roblox catalog for Robux.",
+    "date": "2007-05-30",
+    "tags": ["hats"],
+    "references": ["https://blog.roblox.com/2007/05/robloxian-hat-dance/"]
   },
   {
-    title: "30,000th user joined",
-    details: "",
-    date: "2007-06-13",
-    tags: ["milestones"],
-    references: ["https://blog.roblox.com/2007/06/robloxia-30000-strong-and-growing/"]
+    "title": "30,000th user joined",
+    "details":"",
+    "date": "2007-06-13",
+    "tags": ["milestones"],
+    "references": ["https://blog.roblox.com/2007/06/robloxia-30000-strong-and-growing/"]
   },
   {
-    title: "Roblox moves to new office building",
-    details: "",
-    date: "2007-06-27",
-    tags: ["roblox-hq"],
-    references: ["https://blog.roblox.com/2007/06/new-offices/"]
+    "title": "Roblox moves to new office building",
+    "details":"",
+    "date": "2007-06-27",
+    "tags": ["roblox-hq"],
+    "references": ["https://blog.roblox.com/2007/06/new-offices/"]
   },
   {
-    title: "Users can create and sell shirts",
-    details: "Initially this required Builders Club.",
-    date: "2007-06-28",
-    tags: ["ugc", "shirts"],
-    references: ["https://blog.roblox.com/2007/06/user-marketplace-capture-the-flag-and-heat-seeking-rockets/"]
+    "title": "Users can create and sell shirts",
+    "details":"Initially this required Builders Club.",
+    "date": "2007-06-28",
+    "tags": ["ugc", "shirts"],
+    "references": ["https://blog.roblox.com/2007/06/user-marketplace-capture-the-flag-and-heat-seeking-rockets/"]
   },
   {
-    title: "IP Ban feature enabled",
-    details: "Allowed Roblox moderators to ban users by IP address.",
-    date: "2007-06-28",
-    tags: ["moderation"],
-    references: ["https://blog.roblox.com/2007/06/user-marketplace-capture-the-flag-and-heat-seeking-rockets/"]
+    "title": "IP Ban feature enabled",
+    "details":"Allowed Roblox moderators to ban users by IP address.",
+    "date": "2007-06-28",
+    "tags": ["moderation"],
+    "references": ["https://blog.roblox.com/2007/06/user-marketplace-capture-the-flag-and-heat-seeking-rockets/"]
   },
   {
-    title: "40,000th user joins",
-    details: "StickArena became the 40,000th account to join Roblox.",
-    date: "2007-07-23",
-    tags: ["milestones"],
-    references: ["https://blog.roblox.com/2007/07/roblox-nation-40000-strong/"]
+    "title": "40,000th user joins",
+    "details":"StickArena became the 40,000th account to join Roblox.",
+    "date": "2007-07-23",
+    "tags": ["milestones"],
+    "references": ["https://blog.roblox.com/2007/07/roblox-nation-40000-strong/"]
   },
   {
-    title: "Builders Club released",
-    details: "Builders Club feature released to the general public. Users can purchase monthly or yearly subscriptions.",
-    date: "2007-08-16",
-    tags: ["milestones"],
-    references: ["https://blog.roblox.com/2007/08/builders-club-is-coming/", "https://blog.roblox.com/2007/08/builders-club-is-here/"]
+    "title": "Builders Club released",
+    "details":"Builders Club feature released to the general public. Users can purchase monthly or yearly subscriptions.",
+    "date": "2007-08-16",
+    "tags": ["milestones"],
+    "references": ["https://blog.roblox.com/2007/08/builders-club-is-coming/", "https://blog.roblox.com/2007/08/builders-club-is-here/"]
   },
   {
-    title: "Tickets released",
-    details: "Tickets were introduced as a secondary currency to Robux. They can be earned by logging in daily, place visits, or item purchases.",
-    date: "2007-08-16",
-    tags: ["virtual-currency", "economy"],
-    references: ["https://blog.roblox.com/2007/08/builders-club-is-coming/"]
+    "title": "Tickets released",
+    "details":"Tickets were introduced as a secondary currency to Robux. They can be earned by logging in daily, place visits, or item purchases.",
+    "date": "2007-08-16",
+    "tags": ["virtual-currency", "economy"],
+    "references": ["https://blog.roblox.com/2007/08/builders-club-is-coming/"]
   },
   {
-    title: "50,000th user joins",
-    details: "StickArena became the 40,000th account to join Roblox.",
-    date: "2007-07-23",
-    tags: ["milestones"],
-    references: ["https://blog.roblox.com/2007/08/50000/"]
+    "title": "50,000th user joins",
+    "details":"StickArena became the 40,000th account to join Roblox.",
+    "date": "2007-07-23",
+    "tags": ["milestones"],
+    "references": ["https://blog.roblox.com/2007/08/50000/"]
   },
   {
-    title: "5 concurrent players in-game",
-    details: "David Baszucki emailed the team 'On server duty today – 5 people in-game, a new record!'",
-    date: "2006-08-11",
-    tags: ["milestones"],
-    references: ["https://blog.roblox.com/2007/08/50000/"]
+    "title": "5 concurrent players in-game",
+    "details":"David Baszucki emailed the team 'On server duty today – 5 people in-game, a new record!'",
+    "date": "2006-08-11",
+    "tags": ["milestones"],
+    "references": ["https://blog.roblox.com/2007/08/50000/"]
   },
   {
-    title: "New graphics engine released",
-    details: "This release included explosions and switched the graphics to Direct3D",
-    date: "2007-10-01",
-    tags: ["engine"],
-    references: ["https://blog.roblox.com/2007/10/an-explosive-roblox-release/", "https://www.youtube.com/watch?v=jwDNX_Cf6q0"]
+    "title": "New graphics engine released",
+    "details":"This release included explosions and switched the graphics to Direct3D",
+    "date": "2007-10-01",
+    "tags": ["engine"],
+    "references": ["https://blog.roblox.com/2007/10/an-explosive-roblox-release/", "https://www.youtube.com/watch?v=jwDNX_Cf6q0"]
   },
   {
-    title: "Parents Section added",
-    details: "Added a Parent's section to the Roblox website",
-    date: "2007-10-04",
-    tags: ["parents"],
-    references: ["https://blog.roblox.com/2007/10/new-vistas-for-roblox/"]
+    "title": "Parents Section added",
+    "details":"Added a Parent's section to the Roblox website",
+    "date": "2007-10-04",
+    "tags": ["parents"],
+    "references": ["https://blog.roblox.com/2007/10/new-vistas-for-roblox/"]
   },
   {
-    title: "Bevels added to parts",
-    details: "Bevels were rounded edges added to the corners of parts to give them more of a 3D feel.",
-    date: "2007-10-30",
-    tags: ["engine", "graphics"],
-    references: ["https://blog.roblox.com/2007/10/getting-better-all-the-time/"]
+    "title": "Bevels added to parts",
+    "details":"Bevels were rounded edges added to the corners of parts to give them more of a 3D feel.",
+    "date": "2007-10-30",
+    "tags": ["engine", "graphics"],
+    "references": ["https://blog.roblox.com/2007/10/getting-better-all-the-time/"]
   },
   {
-    title: "Comments introduced",
-    details: "Comments feature added for hats and shirts.",
-    date: "2007-10-30",
-    tags: ["comments", "social"],
-    references: ["https://blog.roblox.com/2007/10/getting-better-all-the-time/"]
+    "title": "Comments introduced",
+    "details":"Comments feature added for hats and shirts.",
+    "date": "2007-10-30",
+    "tags": ["comments", "social"],
+    "references": ["https://blog.roblox.com/2007/10/getting-better-all-the-time/"]
   },
   {
-    title: "Catalog Search added",
-    details: "Previously the catalog did not have a search feature.",
-    date: "2007-10-30",
-    tags: ["catalog", "ugc"],
-    references: ["https://blog.roblox.com/2007/10/getting-better-all-the-time/"]
+    "title": "Catalog Search added",
+    "details":"Previously the catalog did not have a search feature.",
+    "date": "2007-10-30",
+    "tags": ["catalog", "ugc"],
+    "references": ["https://blog.roblox.com/2007/10/getting-better-all-the-time/"]
   },
   {
-    title: "Real-Life Merchandise Shop",
-    details: "Roblox launched a CafePress shop with shirts, hats, pins, and other real-life merchandise.",
-    date: "2007-11-17",
-    tags: ["merchandise"],
-    references: ["https://blog.roblox.com/2007/11/stuff-for-real-super-early-alpha/"]
+    "title": "Real-Life Merchandise Shop",
+    "details":"Roblox launched a CafePress shop with shirts, hats, pins, and other real-life merchandise.",
+    "date": "2007-11-17",
+    "tags": ["merchandise"],
+    "references": ["https://blog.roblox.com/2007/11/stuff-for-real-super-early-alpha/"]
   },
   {
-    title: "Gifts introduced",
-    details: "Virtual gifts were given out during December that later become exclusive catalog items.",
-    date: "2007-12-12",
-    tags: ["catalog"],
-    references: ["https://blog.roblox.com/2007/12/wrapping-up-the-gifts/"]
+    "title": "Gifts introduced",
+    "details":"Virtual gifts were given out during December that later become exclusive catalog items.",
+    "date": "2007-12-12",
+    "tags": ["catalog"],
+    "references": ["https://blog.roblox.com/2007/12/wrapping-up-the-gifts/"]
   },
   {
-    title: "Image Review Process",
-    details: "From the blog: 'New image review scheme. User uploaded images don’t display anywhere on the site or in-game until moderated by a real human being.'",
-    date: "2008-01-16",
-    tags: ["moderation"],
-    references: ["https://blog.roblox.com/2008/01/whaling-about-updates/"]
+    "title": "Image Review Process",
+    "details":"From the blog: 'New image review scheme. User uploaded images don’t display anywhere on the site or in-game until moderated by a real human being.'",
+    "date": "2008-01-16",
+    "tags": ["moderation"],
+    "references": ["https://blog.roblox.com/2008/01/whaling-about-updates/"]
   },
   {
-    title: "DHTML Window removed",
-    details: "An in-game embedded browseer that could be accessed via Lua was removed.",
-    date: "2008-01-16",
-    tags: ["engine"],
-    references: ["https://blog.roblox.com/2008/01/whaling-about-updates/"]
+    "title": "DHTML Window removed",
+    "details":"An in-game embedded browseer that could be accessed via Lua was removed.",
+    "date": "2008-01-16",
+    "tags": ["engine"],
+    "references": ["https://blog.roblox.com/2008/01/whaling-about-updates/"]
   },
   {
-    title: "PayPal supported as payment provider",
-    details: "Builders Club memberships could be purchased for the first time using PayPal.",
-    date: "2008-02-24",
-    tags: ["builders-club"],
-    references: ["https://blog.roblox.com/2008/02/we-accept-paypal/"]
+    "title": "PayPal supported as payment provider",
+    "details":"Builders Club memberships could be purchased for the first time using PayPal.",
+    "date": "2008-02-24",
+    "tags": ["builders-club"],
+    "references": ["https://blog.roblox.com/2008/02/we-accept-paypal/"]
   },
   {
-    title: "First official Roblox Egg Hunt",
-    details: "Egg Hunt launched where users can collect eggs which show up in their inventory.",
-    date: "2008-03-21",
-    tags: ["events"],
-    references: ["https://blog.roblox.com/2008/03/eggstravaganza/"]
+    "title": "First official Roblox Egg Hunt",
+    "details":"Egg Hunt launched where users can collect eggs which show up in their inventory.",
+    "date": "2008-03-21",
+    "tags": ["events"],
+    "references": ["https://blog.roblox.com/2008/03/eggstravaganza/"]
   },
   {
-    title: "Place Comments",
-    details: "The comments feature existed previously, but only worked for catalog items like shirts and hats.",
-    date: "2008-04-02",
-    tags: ["comments"],
-    references: ["https://blog.roblox.com/2008/04/verified-sparkle-places-fantastic-release/"]
+    "title": "Place Comments",
+    "details":"The comments feature existed previously, but only worked for catalog items like shirts and hats.",
+    "date": "2008-04-02",
+    "tags": ["comments"],
+    "references": ["https://blog.roblox.com/2008/04/verified-sparkle-places-fantastic-release/"]
   },
   {
-    title: "Shirts and Pants released",
-    details: "Full-body shirts and pants were released on Roblox. The feature previously known as 'shirts' was rebranded as t-shirts'",
-    date: "2008-04-24",
-    tags: ["shirts", "pants", "ugc"],
-    references: ["https://blog.roblox.com/2008/04/roblox-brings-you/"]
+    "title": "Shirts and Pants released",
+    "details":"Full-body shirts and pants were released on Roblox. The feature previously known as 'shirts' was rebranded as t-shirts'",
+    "date": "2008-04-24",
+    "tags": ["shirts", "pants", "ugc"],
+    "references": ["https://blog.roblox.com/2008/04/roblox-brings-you/"]
   },
   {
-    title: "Favorites feature launched",
-    details: "Places and other asset types can be marked as faVorites, and show up in your favorites section on the Profile page.",
-    date: "2008-04-24",
-    tags: ["favorites"],
-    references: ["https://blog.roblox.com/2008/04/roblox-brings-you/"]
+    "title": "Favorites feature launched",
+    "details":"Places and other asset types can be marked as faVorites, and show up in your favorites section on the Profile page.",
+    "date": "2008-04-24",
+    "tags": ["favorites"],
+    "references": ["https://blog.roblox.com/2008/04/roblox-brings-you/"]
   }
 ]
