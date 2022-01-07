@@ -1,5 +1,12 @@
 [
   {
+    "title": "Roblox.com domain name reserved",
+    "details": "The roblox.com domain name was first reserved at this point.",
+    "date": "2004-01-3-",
+    "tags": ["company"],
+    "references": ["https://who.is/whois/roblox.com"]
+  },
+  {
     "title": "Roblox officially founded",
     "details":"",
     "date": "2006-09-01",
@@ -420,5 +427,173 @@
     "date": "2009-05-05",
     "tags": ["catalog", "gear"],
     "references": ["https://blog.roblox.com/2009/05/gearing-up-after-a-new-release/"]
+  },
+  {
+    "title": "Rental gear supported in catalog",
+    "details": "Rental catalog items expired after a specific timespan and could no longer be used.",
+    "date": "2009-06-03",
+    "tags": ["catalog", "gear"],
+    "references": ["https://blog.roblox.com/2009/06/getting-it-in-gear/"]
+  },
+  {
+    "title": "Turbo Builders Club released",
+    "details": "Turbo Builders Club was an additional tier of Builders Club with a higher price point. It included features like additional places, higher 35 Robux daily stipend, and an exclusive Turbo Builders Club hard hat.",
+    "date": "2009-06-18",
+    "tags": ["builders-club"],
+    "references": ["https://blog.roblox.com/2009/06/and-now-turbo-builders-club/"]
+  },
+  {
+    "title": "Best Friends feature released",
+    "details": "This release allowed people to choose up to 10 'best friends' who showed up in the 'My Roblox' page and in a personalized feed.",
+    "date": "2009-07-30",
+    "tags": ["social"],
+    "references": ["https://blog.roblox.com/2009/07/status-updates-best-friends-and-feeds-oh-my/"]
+  },
+  {
+    "title": "Status feature introduced",
+    "details": "The status feature allowed users to post a short message to let their friends know what they were up to.",
+    "date": "2009-07-30",
+    "tags": ["social"],
+    "references": ["https://blog.roblox.com/2009/07/status-updates-best-friends-and-feeds-oh-my/"]
+  },
+  {
+    "title": "Groups feature released",
+    "details": "Groups are a social feature that allowed people to form their own communities. Initially groups could only be created by users with Builders Club or Turbo Builders Club.",
+    "date": "2009-07-30",
+    "tags": ["social"],
+    "references": ["https://blog.roblox.com/2009/07/social-feature-bonanza/"]
+  },
+  {
+    "title": "Player Badges released",
+    "details": "With this release, developers were able to create their own badges that could be awarded in-game for meeting certain criteria.",
+    "date": "2009-08-13",
+    "tags": ["badges"],
+    "references": ["https://blog.roblox.com/2009/08/badges-badges-badges-mushroom-mushroom/"]
+  },
+  {
+    "title": "Group Search page added",
+    "details": "This allowed people to discover groups more easily, not just on the profile pages of other users.",
+    "date": "2009-08-13",
+    "tags": ["groups"],
+    "references": ["https://blog.roblox.com/2009/08/badges-badges-badges-mushroom-mushroom/"]
+  },
+  {
+    "title": "Group Status feature introduced",
+    "details": "Similar to the existing Status feature for players, this allowed group administrators to post status updates for the group that would appear on the feed of group members.",
+    "date": "2009-08-13",
+    "tags": ["groups"],
+    "references": ["https://blog.roblox.com/2009/08/badges-badges-badges-mushroom-mushroom/"]
+  },
+  {
+    "title": "Web Chat released",
+    "details": "Added a basic live chat feature to the Roblox website, where you could chat with your friends. This version of chat did not save messages beyond a few days.",
+    "date": "2009-09-02",
+    "tags": ["groups"],
+    "references": ["https://blog.roblox.com/2009/09/introducing-roblox-live-chat/"]
+  },
+  {
+    "title": "More materials added",
+    "details": "Additional materials added including Concrete, Corroded Metal, Diamond Plate, Aluminum, and Ice.",
+    "date": "2009-09-02",
+    "tags": ["engine", "rendering"],
+    "references": ["https://blog.roblox.com/2009/09/missive-from-the-pixel-mines/"]
+  },
+  {
+    "title": "Lua GUI System launched",
+    "details": "Roblox added a few basic GUI elements as in-game objects: Frame, Label, Button, SelectionBox, and Handles, with the goal of empowering developers to create and script their own Graphical User Interfaces.",
+    "date": "2009-09-25",
+    "tags": ["engine", "rendering", "gui"],
+    "references": ["https://blog.roblox.com/2009/09/scriptable-guis-the-coolest-roblox-feature-since-sliced-bricks/"]
+  },
+  {
+    "title": "Building with Friends feature enabled",
+    "details": "Allowed group owners to set up a 'group building place' that members could work on collaboratively in a multiplayer environment.",
+    "date": "2009-09-28",
+    "tags": ["building"],
+    "references": ["https://blog.roblox.com/2009/09/building-with-friends/"]
+  },
+  {
+    "title": "Limited and Limited Unique items released",
+    "details": "Limited and Limited Unique items were originally sold by Roblox, but could be re-sold by the purchasers to other users in the virtual marketplace.",
+    "date": "2009-10-05",
+    "tags": ["limiteds", "collectibles"],
+    "references": ["https://blog.roblox.com/2009/10/limited-and-unique-items/"]
+  },
+  {
+    "title": "Refer-a-friend Program launched",
+    "details": "The referral code program allowed users to share a code with friends. If friends used the code and later signed up for Builders Club, the person who referred them would get bonus Robux deposited in their account.",
+    "date": "2009-10-14",
+    "tags": [],
+    "references": ["https://blog.roblox.com/2009/10/refer-a-friend-get-paid/"]
+  },
+  {
+    "title": "Customizable Group Ranks supported",
+    "details": "Initially, the list of group ranks was hardcoded to Member, Admin, and Owner. This update allowed users to customize and create new group ranks with their own names, descriptions, and powers.",
+    "date": "2009-10-14",
+    "tags": ["groups"],
+    "references": ["https://blog.roblox.com/2009/10/group-add-ons/"]
+  },
+  {
+    "title": "Configuration Building Tool added",
+    "details": "The Configuration tool was a no-code mechanism to allow players to customize a few preset attributes of models without needing to dive into Lua or Roblox Studio.",
+    "date": "2009-10-16",
+    "tags": ["building"],
+    "references": ["https://blog.roblox.com/2009/10/configurations-scripting-for-the-rest-of-us/"]
+  },
+  {
+    "title": "Website Themes released",
+    "details": "Allowed users to choose between a few themes to customize the look of the website. The launch included Classic, Test theme, and the OBC theme.",
+    "date": "2009-10-30",
+    "tags": ["website"],
+    "references": ["https://blog.roblox.com/2009/10/roblox-themes/"]
+  },
+  {
+    "title": "Bubble Chat introduced",
+    "details": "Optional in-game feature where chat messages display in white bubbles above characters.",
+    "date": "2009-11-26",
+    "tags": ["social", "engine"],
+    "references": ["https://blog.roblox.com/2009/11/bring-on-the-bubbly-introducing-bubble-chat/"]
+  },
+  {
+    "title": "Particle effects improved",
+    "details": "A new Smoke particle effect is added and the existing Sparkles effect is enhanced. Smoke is notably the first particle effect with granular customization, such as opacity, rise velocity, and size.",
+    "date": "2009-12-17",
+    "tags": ["rendering", "engine"],
+    "references": ["https://blog.roblox.com/2009/12/when-graphics-programmers-cook/"]
+  },
+  {
+    "title": "Sets added",
+    "details": "Sets allowed users to group content by adding them to lists. It was intended to be used primarily for building assets like models and decals.",
+    "date": "2010-01-04",
+    "tags": ["sets"],
+    "references": ["https://blog.roblox.com/2010/01/introducing-sets/"]
+  },
+  {
+    "title": "Roblox runs first donation effort 'Hats for Haiti'",
+    "details": "This was noteworthy as the first time Roblox ran a crowdsourced donation drive for charity. The proceeds were donated to the American Red Cross to help with earthquake relief efforts for the 2010 Haiti Earthquake.",
+    "date": "2010-01-16",
+    "tags": ["donations"],
+    "references": ["https://blog.roblox.com/2010/01/hats-for-haiti/"]
+  },
+  {
+    "title": "Contests feature launched",
+    "details": "The Contests feature gamified the contest experience by having users submit places to be voted on by their peers. Prizes were automatically given out to users who voted closest to their peers, or who received the most votes on their submissions.",
+    "date": "2010-02-09",
+    "tags": ["contests"],
+    "references": ["https://blog.roblox.com/2010/02/roblox-contests/"]
+  },
+  {
+    "title": "New Body Shapes revealed",
+    "details": "Roblox added new catalog item types for Arms, Legs, and Torsos to allow users to further customize their characters.",
+    "date": "2010-04-29",
+    "tags": ["avatar"],
+    "references": ["https://blog.roblox.com/2010/04/shape-changers/"]
+  },
+  {
+    "title": "Wearing Triple Hats supported",
+    "details": "This update allowed users to wear three hats at once. Prior to this change, users were only able to achieve this with the infinite hat glitch.",
+    "date": "2010-06-08",
+    "tags": ["avatar"],
+    "references": ["https://blog.roblox.com/2010/06/triple-hats-and-follow-friends/"]
   },
 ]
