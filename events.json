@@ -1,5 +1,12 @@
 [
   {
+    "title": "Roblox officially founded",
+    "details":"",
+    "date": "2006-09-01",
+    "tags": ["company"],
+    "references": ["https://blog.roblox.com/2016/04/happy-10th-anniversary-roblox/"]
+  },
+  {
     "title": "Crossroads place created",
     "details":"",
     "date": "2007-05-01",
@@ -311,9 +318,107 @@
   },
   {
     "title": "Favorites feature launched",
-    "details":"Places and other asset types can be marked as faVorites, and show up in your favorites section on the Profile page.",
+    "details": "Places and other asset types can be marked as faVorites, and show up in your favorites section on the Profile page.",
     "date": "2008-04-24",
     "tags": ["favorites"],
     "references": ["https://blog.roblox.com/2008/04/roblox-brings-you/"]
-  }
+  },
+  {
+    "title": "User-uploadable decals introduced",
+    "details": "This allowed users to add 2D textures to their games. This was possible before, but the images only showed up in play solo.",
+    "date": "2008-05-14",
+    "tags": [""],
+    "references": ["https://blog.roblox.com/2008/05/more-fun-less-frustration/"]
+  },
+  {
+    "title": "Guest Mode added",
+    "details": "Guest Mode allowed users to play Roblox games before you signed up for an account. From the blog: 'Guest mode players appear in-game with the name \"Guest ####\". They’re just like normal users, except they can only use Super Safe chat and their stats don’t get logged from game to game.'",
+    "date": "2008-09-26",
+    "tags": [""],
+    "references": ["https://blog.roblox.com/2008/09/be-our-guest-buy-our-robux/"]
+  },
+  {
+    "title": "Buy Robux feature launched",
+    "details": "Previously, users only received Robux by purchasing Builders Club and receiving a daily stipend. The Buy Robux feature allowed users to purchase Robux directly from Roblox.",
+    "date": "2008-09-26",
+    "tags": ["robux", "economy"],
+    "references": ["https://blog.roblox.com/2008/09/be-our-guest-buy-our-robux/"]
+  },
+  {
+    "title": "Currency Exchange launched",
+    "details": "The currency exchange feature allowed users to trade between Robux and Tickets. The exchange worked the same way as a real-life exchange, with dynamic rates and a spread dictated by demand.",
+    "date": "2008-11-21",
+    "tags": ["robux", "economy"],
+    "references": ["https://blog.roblox.com/2008/11/its-the-economy/"]
+  },
+  {
+    "title": "User Ads introduced",
+    "details": "Allowed users to run website ads to draw traffic to their places, models, decals, clothing, etc. The number of times the ad is shown is based on the user's bid amount.",
+    "date": "2008-11-21",
+    "tags": ["ads", "economy"],
+    "references": ["https://blog.roblox.com/2008/11/its-the-economy/"]
+  },
+  {
+    "title": "Heads added to the catalog",
+    "details": "This release allowed people to select heads for their character, instead of using the default head.",
+    "date": "2008-12-18",
+    "tags": ["catalog", "ugc"],
+    "references": ["https://blog.roblox.com/2008/12/trying-to-get-a-head/"]
+  },
+  {
+    "title": "Faces added to the catalog",
+    "details": "This release allowed people to customize their character by selecting a custom face. At the time of launch there were 20 faces in the catalog.",
+    "date": "2009-01-15",
+    "tags": ["catalog", "ugc"],
+    "references": ["https://blog.roblox.com/2009/01/in-your-face/"]
+  },
+  {
+    "title": "Wood material released",
+    "details": "This release allowed developers to use a wood grain on their parts, not just plastic.",
+    "date": "2009-03-18",
+    "tags": ["engine"],
+    "references": ["https://blog.roblox.com/2009/03/building-against-the-grain/"]
+  },
+  {
+    "title": "Recommendations added for catalog items",
+    "details": "From the blog: 'Also new in this release is the asset recommender. When you are looking at a places, hats, shirts, heads, faces, etc we now present you with a random selection of other stuff that we think you might like.'",
+    "date": "2009-03-18",
+    "tags": ["catalog"],
+    "references": ["https://blog.roblox.com/2009/03/building-against-the-grain/"]
+  },
+  {
+    "title": "In-game color palette expanded",
+    "details": "In the early days Roblox only allowed you to use a small set of colors. In this release that list was expanded from 32 to 64 brick colors, with a focus on saturated colors.",
+    "date": "2009-04-02",
+    "tags": ["engine"],
+    "references": ["https://blog.roblox.com/2009/04/sixty-four-is-the-new-thirty-two/"]
+  },
+  {
+    "title": "Ambassador Program launched",
+    "details": "The ambassador program allowed users to drop HTML snippets on other websites to advertise Roblox. Signups attributed to those links would earn Tickets for the link owner.",
+    "date": "2009-04-22",
+    "tags": ["website"],
+    "references": ["https://blog.roblox.com/2009/04/introducing-the-roblox-ambassador-program/"]
+  },
+  {
+    "title": "Slate material added",
+    "details": "The Slate material is a rough, rocky looking material that complemented the existing wood and plastic materials.",
+    "date": "2009-04-29",
+    "tags": ["engine"],
+    "references": ["https://blog.roblox.com/2009/04/builders-of-robloxia-rejoice/"]
+  },
+  {
+    "title": "Vehicle Seats released",
+    "details": "Vehicle Seats are a newer version of seats that automatically drive the motion of vehicles using hinge joints.",
+    "date": "2009-05-05",
+    "tags": ["engine"],
+    "references": ["https://blog.roblox.com/2009/05/vehicle-mania/"]
+  },
+  {
+    "title": "Gear added to the catalog",
+    "details": "Gear is a new asset type that represented in-game tools and items. The first gear released was Brigand's Sword, which dealt damage when used in-game.",
+    "date": "2009-05-05",
+    "tags": ["catalog", "gear"],
+    "references": ["https://blog.roblox.com/2009/05/gearing-up-after-a-new-release/"]
+  },
 ]
