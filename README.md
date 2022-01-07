@@ -1,2 +1,2 @@
-# rblx-evolution
-Timeline of the Roblox platform and its evolution
+# roblox-timeline
+Timeline of the Roblox platform that focuses on key events
